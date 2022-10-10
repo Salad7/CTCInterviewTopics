@@ -2,8 +2,10 @@ public class Main {
     public static void main(String[] args) {
         
         System.out.println("Hello world!");
-        selectionSort();
+//        selectionSort();
+        new BubbleSort();
     }
+
     public static void selectionSort(){
         int[] nums = {116, 2, 73, 138, 99, 189, 6, 79, 142, 55, 169, 107, 170, 50, 197, 14, 193, 140, 106, 92, 38, 71, 83, 81, 17, 58, 155, 168, 62, 173, 191, 41, 88, 114, 12, 195, 200, 74, 141, 34, 179, 18, 64, 190, 7, 128, 39, 176, 102, 171};
 
