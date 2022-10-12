@@ -3,7 +3,8 @@ public class Main {
         
         System.out.println("Hello world!");
 //        selectionSort();
-        new BubbleSort();
+//        new BubbleSort();
+        new Quicksort();
     }
 
     public static void selectionSort(){
